@@ -1,6 +1,6 @@
 {
-  "name": "@magnimar/magnimar-eslint-rules",
-  "version": "1.0.2",
+  "name": "@magnimar/eslint-plugin-magnimar-eslint-rules",
+  "version": "1.0.3",
   "description": "eslint rules",
   "main": "./rules/index.js",
   "scripts": {
