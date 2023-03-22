@@ -1,6 +1,6 @@
 {
   "name": "@magnimar/magnimar-eslint-rules",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "eslint rules",
   "main": "./rules/index.js",
   "scripts": {
@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@magnimar/magnimar-eslint-rules": "^1.0.0",
     "@typescript-eslint/eslint-plugin": "^5.56.0",
     "@typescript-eslint/parser": "^5.56.0",
     "eslint": "^8.36.0",
